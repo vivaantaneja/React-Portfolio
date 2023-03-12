@@ -1,0 +1,108 @@
+{
+    "basic_info": {
+      "description_header": "Hi",
+      "description": "A creative mind that yearns to come up with new ideas and develop new things! I'm an aspiring software engineer at Thapar Institute of Engineering and Technology. With a keen eye for detail, I specialise in graphic design, where I use photoshop and illustrator to express my thoughts digitally. Alongside, I've tried my hand at studying UI/UX design with figma and excelled at it. I am now invested in web programming and plan on mastering full stack development, driven by a desire to up-skill myself every day.",
+      "section_name": {
+        "about": "About me",
+        "projects": "Projects",
+        "skills": "Skills",
+        "experience": "Experience"
+      }
+    },
+    "projects": [
+      {
+        "title": "Evac",
+        "startDate": "2023",
+        "description": "EVAC is a full-stack soltuion to reduce reaction time drastically in the face of calamity and makes people’s lives safer in the face of disaster",
+        "images": [
+          "images/portfolio/Evac/p1.png",
+          "images/portfolio/Evac/p2.jpg"
+        ],
+        "url": "https://github.com/vivaantaneja/Evac",
+        "technologies": [
+          {
+            "class": "devicon-flutter-plain colored",
+            "name": "Flutter"
+          },
+          {
+            "class": "devicon-figma-plain colored",
+            "name": "Figma"
+          },
+          {
+            "class": "devicon-nodejs-plain colored",
+            "name": "Node.js"
+          }
+        ]
+      },
+      {
+        "title": "Bored",
+        "startDate": "2022",
+        "description": "Bored is a simple app with a simple purpose. Just as the name suggests, the bored app is for people who're bored and want something to do. It is an all-in-one app to provide recommendations of movies, songs animes,books etc.",
+        "images": [
+          "images/portfolio/photography/p1.png",
+          "images/portfolio/photography/p2.jpg"
+        ],
+        "url": "https://github.com/vivaantaneja/bored",
+        "technologies": [
+          {
+            "class": "devicon-flutter-plain colored",
+            "name": "Flutter"
+          },
+          {
+            "class": "devicon-figma-plain colored",
+            "name": "Figma"
+          }
+        ]
+      },
+      {
+        "title": "Farmoney",
+        "startDate": "2022",
+        "description": "One bad harvest is all it takes for everything to fall apart for indian farmers and put them in vicous cycle of debt. This doesn't allow them to grow for the landlords and lenders keep exploiting them for their money. To solve all these problems and connect rural and urban India, We'd like to present Farmoney, a one-of-its-kind app which allows retail investors like us to invest in our own farmers and help them grow, while earning a sizeable profit.",
+        "images": [
+          "images/portfolio/adventure/p1.jpg",
+          "images/portfolio/adventure/p2.jpg"
+        ],
+        "url": "https://github.com/vivaantaneja/far_money",
+        "technologies": [
+          {
+            "class": "devicon-flutter-plain colored",
+            "name": "Flutter"
+          },
+          {
+            "class": "devicon-figma-plain colored",
+            "name": "Figma"
+          }
+        ]
+      }
+    ],
+    "experience": [
+      {
+        "title": "Junior UI/UX and Graphic Designer",
+        "years": "06.2022 - present",
+        "mainTech": [
+          "Creative Computing Society"
+        ],
+        "technologies": [
+          "Figma",
+          "Adobe Photoshop",
+          "Adobe Illustrator",
+          "React",
+          "Redux",
+          "HTML",
+          "CSS",
+          "JavaScript"
+        ]
+      },
+      {
+        "title": "Chief Of Design",
+        "years": "08.2022 - 01.2023",
+        "mainTech": [
+          "Enactus Thapar"
+        ],
+        "technologies": [
+          "Adobe Photoshop",
+          "Adobe Illustrator"
+        ]
+      }
+    ]
+  }

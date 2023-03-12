@@ -1,0 +1,68 @@
+{
+    "basic_info": {
+      "name": "Vivaan Taneja",
+      "titles": [ "Front-End Web Developer", "UI/UX Designer", "Graphic Designer"],
+      "social": [
+        {
+          "name": "github",
+          "url": "https://github.com/vivaantaneja",
+          "class": "fab fa-github"
+        },
+        {
+          "name": "instagram",
+          "url": "https://www.instagram.com/vivaantaneja21/",
+          "class": "fab fa-instagram"
+        }
+      ],
+      "image": "public/images/myProfile.jpg"
+    },
+    "skills": {
+      "icons": [
+        {
+          "name": "HTML",
+          "class": "devicon-html5-plain",
+          "level": "95"
+        },
+        {
+          "name": "CSS",
+          "class": "devicon-css3-plain",
+          "level": "95"
+        },
+        {
+          "name": "React",
+          "class": "devicon-react-original",
+          "level": "80"
+        },
+        {
+          "name": "C++",
+          "class": "devicon-cplusplus-plain",
+          "level": "90"
+        },
+        {
+          "name": "JavaScript",
+          "class": "devicon-javascript-plain",
+          "level": "70"
+        },
+        {
+          "name": "Figma",
+          "class": "devicon-figma-plain",
+          "level": "75"
+        },
+        {
+          "name": "Photoshop",
+          "class": "devicon-photoshop-plain",
+          "level": "85"
+        },
+        {
+          "name": "Illustrator",
+          "class": "devicon-illustrator-plain",
+          "level": "65"
+        },
+        {
+          "name": "Python",
+          "class": "devicon-python-plain",
+          "level": "60"
+        }
+      ]
+    }
+  }
