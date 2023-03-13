@@ -4,9 +4,9 @@
       "titles": [ "Front-End Web Developer", "UI/UX Designer", "Graphic Designer"],
       "social": [
         {
-          "name": "github",
-          "url": "https://github.com/vivaantaneja",
-          "class": "fab fa-github"
+          "name": "behance",
+          "url": "https://www.behance.net/vivaantaneja",
+          "class": "fab fa-behance"
         },
         {
           "name": "instagram",
