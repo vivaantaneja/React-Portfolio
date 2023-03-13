@@ -34,33 +34,33 @@
           "level": "80"
         },
         {
-          "name": "C++",
-          "class": "devicon-cplusplus-plain",
+          "name": "Node.js",
+          "class": "devicon-nodejs-plain",
           "level": "90"
-        },
-        {
-          "name": "JavaScript",
-          "class": "devicon-javascript-plain",
-          "level": "70"
         },
         {
           "name": "Figma",
           "class": "devicon-figma-plain",
+          "level": "70"
+        },
+        {
+          "name": "JavaScript",
+          "class": "devicon-javascript-plain",
           "level": "75"
+        },
+        {
+          "name": "C++",
+          "class": "devicon-cplusplus-plain",
+          "level": "85"
         },
         {
           "name": "Photoshop",
           "class": "devicon-photoshop-plain",
-          "level": "85"
+          "level": "65"
         },
         {
           "name": "Illustrator",
           "class": "devicon-illustrator-plain",
-          "level": "65"
-        },
-        {
-          "name": "Python",
-          "class": "devicon-python-plain",
           "level": "60"
         }
       ]
